@@ -169,3 +169,4 @@ using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13, 7, 12, 10] the accura
 On level 16, added feature 10 to current set, which has accuracy 0.75
 
 Best set is [11, 9] with accuracy 0.968
+Execution time: 51.05170202255249 seconds
