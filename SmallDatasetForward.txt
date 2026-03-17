@@ -1,4 +1,4 @@
-## Firstly, I will run the dataset using the Forward Trace Method: 
+
 you have selected forward selection
 using feature [1] the accuracy is 0.732
 using feature [2] the accuracy is 0.728
