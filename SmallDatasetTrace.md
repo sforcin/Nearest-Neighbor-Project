@@ -1,0 +1,171 @@
+## Firstly, I will run the dataset using the Forward Trace Method: 
+you have selected forward selection
+using feature [1] the accuracy is 0.732
+using feature [2] the accuracy is 0.728
+using feature [3] the accuracy is 0.732
+using feature [4] the accuracy is 0.728
+using feature [5] the accuracy is 0.726
+using feature [6] the accuracy is 0.714
+using feature [7] the accuracy is 0.74
+using feature [8] the accuracy is 0.748
+using feature [9] the accuracy is 0.728
+using feature [10] the accuracy is 0.728
+using feature [11] the accuracy is 0.888
+using feature [12] the accuracy is 0.73
+using feature [13] the accuracy is 0.736
+using feature [14] the accuracy is 0.712
+using feature [15] the accuracy is 0.776
+using feature [16] the accuracy is 0.746
+On level 1, added feature 11 to current set, which has accuracy 0.888
+
+using feature [11, 1] the accuracy is 0.834
+using feature [11, 2] the accuracy is 0.832
+using feature [11, 3] the accuracy is 0.868
+using feature [11, 4] the accuracy is 0.838
+using feature [11, 5] the accuracy is 0.84
+using feature [11, 6] the accuracy is 0.864
+using feature [11, 7] the accuracy is 0.86
+using feature [11, 8] the accuracy is 0.874
+using feature [11, 9] the accuracy is 0.968
+using feature [11, 10] the accuracy is 0.83
+using feature [11, 12] the accuracy is 0.862
+using feature [11, 13] the accuracy is 0.854
+using feature [11, 14] the accuracy is 0.838
+using feature [11, 15] the accuracy is 0.84
+using feature [11, 16] the accuracy is 0.888
+On level 2, added feature 9 to current set, which has accuracy 0.968
+
+using feature [11, 9, 1] the accuracy is 0.94
+using feature [11, 9, 2] the accuracy is 0.942
+using feature [11, 9, 3] the accuracy is 0.934
+using feature [11, 9, 4] the accuracy is 0.93
+using feature [11, 9, 5] the accuracy is 0.93
+using feature [11, 9, 6] the accuracy is 0.928
+using feature [11, 9, 7] the accuracy is 0.944
+using feature [11, 9, 8] the accuracy is 0.94
+using feature [11, 9, 10] the accuracy is 0.924
+using feature [11, 9, 12] the accuracy is 0.93
+using feature [11, 9, 13] the accuracy is 0.934
+using feature [11, 9, 14] the accuracy is 0.936
+using feature [11, 9, 15] the accuracy is 0.948
+using feature [11, 9, 16] the accuracy is 0.944
+On level 3, added feature 15 to current set, which has accuracy 0.948
+
+using feature [11, 9, 15, 1] the accuracy is 0.916
+using feature [11, 9, 15, 2] the accuracy is 0.88
+using feature [11, 9, 15, 3] the accuracy is 0.866
+using feature [11, 9, 15, 4] the accuracy is 0.896
+using feature [11, 9, 15, 5] the accuracy is 0.87
+using feature [11, 9, 15, 6] the accuracy is 0.874
+using feature [11, 9, 15, 7] the accuracy is 0.892
+using feature [11, 9, 15, 8] the accuracy is 0.874
+using feature [11, 9, 15, 10] the accuracy is 0.898
+using feature [11, 9, 15, 12] the accuracy is 0.888
+using feature [11, 9, 15, 13] the accuracy is 0.914
+using feature [11, 9, 15, 14] the accuracy is 0.906
+using feature [11, 9, 15, 16] the accuracy is 0.908
+On level 4, added feature 1 to current set, which has accuracy 0.916
+
+using feature [11, 9, 15, 1, 2] the accuracy is 0.85
+using feature [11, 9, 15, 1, 3] the accuracy is 0.872
+using feature [11, 9, 15, 1, 4] the accuracy is 0.86
+using feature [11, 9, 15, 1, 5] the accuracy is 0.846
+using feature [11, 9, 15, 1, 6] the accuracy is 0.882
+using feature [11, 9, 15, 1, 7] the accuracy is 0.862
+using feature [11, 9, 15, 1, 8] the accuracy is 0.848
+using feature [11, 9, 15, 1, 10] the accuracy is 0.88
+using feature [11, 9, 15, 1, 12] the accuracy is 0.846
+using feature [11, 9, 15, 1, 13] the accuracy is 0.872
+using feature [11, 9, 15, 1, 14] the accuracy is 0.872
+using feature [11, 9, 15, 1, 16] the accuracy is 0.87
+On level 5, added feature 6 to current set, which has accuracy 0.882
+
+using feature [11, 9, 15, 1, 6, 2] the accuracy is 0.836
+using feature [11, 9, 15, 1, 6, 3] the accuracy is 0.844
+using feature [11, 9, 15, 1, 6, 4] the accuracy is 0.854
+using feature [11, 9, 15, 1, 6, 5] the accuracy is 0.824
+using feature [11, 9, 15, 1, 6, 7] the accuracy is 0.842
+using feature [11, 9, 15, 1, 6, 8] the accuracy is 0.828
+using feature [11, 9, 15, 1, 6, 10] the accuracy is 0.818
+using feature [11, 9, 15, 1, 6, 12] the accuracy is 0.816
+using feature [11, 9, 15, 1, 6, 13] the accuracy is 0.83
+using feature [11, 9, 15, 1, 6, 14] the accuracy is 0.852
+using feature [11, 9, 15, 1, 6, 16] the accuracy is 0.842
+On level 6, added feature 4 to current set, which has accuracy 0.854
+
+using feature [11, 9, 15, 1, 6, 4, 2] the accuracy is 0.822
+using feature [11, 9, 15, 1, 6, 4, 3] the accuracy is 0.808
+using feature [11, 9, 15, 1, 6, 4, 5] the accuracy is 0.832
+using feature [11, 9, 15, 1, 6, 4, 7] the accuracy is 0.828
+using feature [11, 9, 15, 1, 6, 4, 8] the accuracy is 0.804
+using feature [11, 9, 15, 1, 6, 4, 10] the accuracy is 0.826
+using feature [11, 9, 15, 1, 6, 4, 12] the accuracy is 0.816
+using feature [11, 9, 15, 1, 6, 4, 13] the accuracy is 0.774
+using feature [11, 9, 15, 1, 6, 4, 14] the accuracy is 0.852
+using feature [11, 9, 15, 1, 6, 4, 16] the accuracy is 0.828
+On level 7, added feature 14 to current set, which has accuracy 0.852
+
+using feature [11, 9, 15, 1, 6, 4, 14, 2] the accuracy is 0.822
+using feature [11, 9, 15, 1, 6, 4, 14, 3] the accuracy is 0.806
+using feature [11, 9, 15, 1, 6, 4, 14, 5] the accuracy is 0.828
+using feature [11, 9, 15, 1, 6, 4, 14, 7] the accuracy is 0.84
+using feature [11, 9, 15, 1, 6, 4, 14, 8] the accuracy is 0.816
+using feature [11, 9, 15, 1, 6, 4, 14, 10] the accuracy is 0.82
+using feature [11, 9, 15, 1, 6, 4, 14, 12] the accuracy is 0.808
+using feature [11, 9, 15, 1, 6, 4, 14, 13] the accuracy is 0.81
+using feature [11, 9, 15, 1, 6, 4, 14, 16] the accuracy is 0.844
+On level 8, added feature 16 to current set, which has accuracy 0.844
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 2] the accuracy is 0.788
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 3] the accuracy is 0.802
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5] the accuracy is 0.814
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 7] the accuracy is 0.808
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 8] the accuracy is 0.792
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 10] the accuracy is 0.79
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 12] the accuracy is 0.788
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 13] the accuracy is 0.78
+On level 9, added feature 5 to current set, which has accuracy 0.814
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2] the accuracy is 0.8
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 3] the accuracy is 0.79
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 7] the accuracy is 0.784
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 8] the accuracy is 0.794
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 10] the accuracy is 0.788
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 12] the accuracy is 0.778
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 13] the accuracy is 0.782
+On level 10, added feature 2 to current set, which has accuracy 0.8
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 3] the accuracy is 0.796
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 7] the accuracy is 0.786
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8] the accuracy is 0.798
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 10] the accuracy is 0.764
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 12] the accuracy is 0.772
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 13] the accuracy is 0.776
+On level 11, added feature 8 to current set, which has accuracy 0.798
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3] the accuracy is 0.786
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 7] the accuracy is 0.776
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 10] the accuracy is 0.78
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 12] the accuracy is 0.776
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 13] the accuracy is 0.772
+On level 12, added feature 3 to current set, which has accuracy 0.786
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 7] the accuracy is 0.786
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 10] the accuracy is 0.774
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 12] the accuracy is 0.782
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13] the accuracy is 0.802
+On level 13, added feature 13 to current set, which has accuracy 0.802
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13, 7] the accuracy is 0.794
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13, 10] the accuracy is 0.772
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13, 12] the accuracy is 0.778
+On level 14, added feature 7 to current set, which has accuracy 0.794
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13, 7, 10] the accuracy is 0.764
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13, 7, 12] the accuracy is 0.774
+On level 15, added feature 12 to current set, which has accuracy 0.774
+
+using feature [11, 9, 15, 1, 6, 4, 14, 16, 5, 2, 8, 3, 13, 7, 12, 10] the accuracy is 0.75
+On level 16, added feature 10 to current set, which has accuracy 0.75
+
+Best set is [11, 9] with accuracy 0.968
