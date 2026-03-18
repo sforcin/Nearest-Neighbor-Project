@@ -1,1 +1,135 @@
+Running nearest neighbor on Sanity Check 1 with features [7, 10, 12]...
+Accuracy: 0.950
+Welcome to Isabela Sforcin's feature selection algorithm, type in the name of the file to test
+IsabelaLargeDataset.txt
+type (1) if you'd like forward selection, or (2) if you'd like backward selection
+2
+you have selected backward selection
+On level 1, removed feature 42 from current set, which has accuracy 0.693
 
+On level 2, removed feature 35 from current set, which has accuracy 0.6996666666666667
+
+On level 3, removed feature 25 from current set, which has accuracy 0.7086666666666667
+
+On level 4, removed feature 50 from current set, which has accuracy 0.7106666666666667
+
+On level 5, removed feature 47 from current set, which has accuracy 0.7146666666666667
+
+On level 6, removed feature 60 from current set, which has accuracy 0.718
+
+On level 7, removed feature 41 from current set, which has accuracy 0.7183333333333334
+
+On level 8, removed feature 30 from current set, which has accuracy 0.719
+
+On level 9, removed feature 37 from current set, which has accuracy 0.7216666666666667
+
+On level 10, removed feature 16 from current set, which has accuracy 0.7216666666666667
+
+On level 11, removed feature 26 from current set, which has accuracy 0.7233333333333334
+
+On level 12, removed feature 61 from current set, which has accuracy 0.7243333333333334
+
+On level 13, removed feature 64 from current set, which has accuracy 0.7303333333333333
+
+On level 14, removed feature 22 from current set, which has accuracy 0.7306666666666667
+
+On level 15, removed feature 33 from current set, which has accuracy 0.7316666666666667
+
+On level 16, removed feature 15 from current set, which has accuracy 0.7333333333333333
+
+On level 17, removed feature 4 from current set, which has accuracy 0.7346666666666667
+
+On level 18, removed feature 11 from current set, which has accuracy 0.7393333333333333
+
+On level 19, removed feature 57 from current set, which has accuracy 0.743
+
+On level 20, removed feature 1 from current set, which has accuracy 0.7453333333333333
+
+On level 21, removed feature 44 from current set, which has accuracy 0.7436666666666667
+
+On level 22, removed feature 55 from current set, which has accuracy 0.7446666666666667
+
+On level 23, removed feature 58 from current set, which has accuracy 0.7453333333333333
+
+On level 24, removed feature 38 from current set, which has accuracy 0.7426666666666667
+
+On level 25, removed feature 54 from current set, which has accuracy 0.742
+
+On level 26, removed feature 43 from current set, which has accuracy 0.7426666666666667
+
+On level 27, removed feature 13 from current set, which has accuracy 0.7413333333333333
+
+On level 28, removed feature 10 from current set, which has accuracy 0.7373333333333333
+
+On level 29, removed feature 31 from current set, which has accuracy 0.7373333333333333
+
+On level 30, removed feature 62 from current set, which has accuracy 0.739
+
+On level 31, removed feature 63 from current set, which has accuracy 0.7383333333333333
+
+On level 32, removed feature 17 from current set, which has accuracy 0.7386666666666667
+
+On level 33, removed feature 49 from current set, which has accuracy 0.7396666666666667
+
+On level 34, removed feature 39 from current set, which has accuracy 0.7393333333333333
+
+On level 35, removed feature 3 from current set, which has accuracy 0.737
+
+On level 36, removed feature 28 from current set, which has accuracy 0.7353333333333333
+
+On level 37, removed feature 40 from current set, which has accuracy 0.7346666666666667
+
+On level 38, removed feature 45 from current set, which has accuracy 0.7363333333333333
+
+On level 39, removed feature 53 from current set, which has accuracy 0.732
+
+On level 40, removed feature 48 from current set, which has accuracy 0.7333333333333333
+
+On level 41, removed feature 7 from current set, which has accuracy 0.735
+
+On level 42, removed feature 32 from current set, which has accuracy 0.7313333333333333
+
+On level 43, removed feature 56 from current set, which has accuracy 0.734
+
+On level 44, removed feature 51 from current set, which has accuracy 0.7323333333333333
+
+On level 45, removed feature 14 from current set, which has accuracy 0.7283333333333334
+
+On level 46, removed feature 6 from current set, which has accuracy 0.7316666666666667
+
+On level 47, removed feature 18 from current set, which has accuracy 0.7323333333333333
+
+On level 48, removed feature 8 from current set, which has accuracy 0.7256666666666667
+
+On level 49, removed feature 23 from current set, which has accuracy 0.723
+
+On level 50, removed feature 2 from current set, which has accuracy 0.726
+
+On level 51, removed feature 34 from current set, which has accuracy 0.7256666666666667
+
+On level 52, removed feature 21 from current set, which has accuracy 0.725
+
+On level 53, removed feature 5 from current set, which has accuracy 0.7213333333333334
+
+On level 54, removed feature 9 from current set, which has accuracy 0.7223333333333334
+
+On level 55, removed feature 19 from current set, which has accuracy 0.719
+
+On level 56, removed feature 27 from current set, which has accuracy 0.7196666666666667
+
+On level 57, removed feature 46 from current set, which has accuracy 0.717
+
+On level 58, removed feature 12 from current set, which has accuracy 0.7253333333333334
+
+On level 59, removed feature 20 from current set, which has accuracy 0.718
+
+On level 60, removed feature 59 from current set, which has accuracy 0.7103333333333334
+
+On level 61, removed feature 29 from current set, which has accuracy 0.711
+
+On level 62, removed feature 52 from current set, which has accuracy 0.7056666666666667
+
+On level 63, removed feature 24 from current set, which has accuracy 0.7093333333333334
+
+Best set is [2, 3, 5, 6, 7, 8, 9, 10, 12, 13, 14, 17, 18, 19, 20, 21, 23, 24, 27, 28, 29, 31, 32, 34, 36, 38, 39, 40, 43, 44, 45, 46, 48, 49, 51, 52, 53, 54, 55, 56, 58, 59, 62, 63] with accuracy 0.7453333333333333
+Execution time: 2238.119729280472 seconds
