@@ -159,5 +159,5 @@ elif selection_type == "2":
 #citations:
 # [1] "numpy.loadtxt — NumPy v2.0 Manual," NumPy, 2024. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.loadtxt.html. 
 #[2] I took this logic from CS170 class, where prof. Keogh explained how Nearest Neighbor works, and how we update the NN as we see new data.
-#[3] "Project 2 Winter 2026" by prof. Eamon Keogh on Dropbox.
+#[3] "Project 2 Winter 2026" by prof. Eamonn Keogh on Dropbox.
 #[4] Numpy sum Documentation https://numpy.org/doc/stable/reference/generated/numpy.sum.html
